@@ -11,7 +11,6 @@ function adicionarAmigo() {
       alert("Preencha um nome válido!");
    }
    else {
-
     	//console.log(nome);
     	// Criar um novo elemento <li>
    	if (!(amigos.includes(nome))){
@@ -26,14 +25,12 @@ function adicionarAmigo() {
     }
 }
 
-
 function sortearAmigo(){
     if (numAmigos != 0){
 	let numeroEscolhido = parseInt(Math.random() * numAmigos);
 	//console.log(numeroEscolhido);
 	let mensagem = `Nome escolhido: ${amigos[numeroEscolhido]}`;
         alert(mensagem);
-
     }
 }
 
