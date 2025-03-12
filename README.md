@@ -3,7 +3,7 @@
 <! --
 **evandrinio/challenge-amigo-secreto_pt-main** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
 
-Aqui estão algumas idéias para você começar:
+Aqui estão algumas informações sobre mim.
 
 - 🔭 Atualmente estou trabalhando em uma certificação em análise de dados
 - 🌱 Atualmente estou aprendendo JS
